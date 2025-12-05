@@ -1,4 +1,4 @@
-name: Master Tests
+name: Main Tests
 
 on:
   push:
